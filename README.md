@@ -1,5 +1,6 @@
 # Nuxt 3 快速模板
-nuxt 3的最小模板，用于快速开始一个新项目。
+nuxt 3的最小模板，用于快速开始一个新项目。  
+集成 Tailwindcss、pinia、eslint、prettier
 # 目录结构
 📂 root  
 |-- 📁 .nuxt  
